@@ -7,7 +7,7 @@ Full Stack AI Engineer из Москвы. Пишу на TypeScript и Python и 
 **Сейчас**
 
 - Один делаю интернет-магазин одежды для верховой езды на Next.js и Payload CMS: витрина, админка с CMS и CRM, оплата, онлайн-касса с кодами маркировки, доставка. За четыре недели 108 коммитов и 10 выпусков, запуск в середине декабря 2026.
-- Пишу свои инструменты для работы с ИИ-агентами поверх Claude Code, Cursor CLI и Codex CLI: раздача задач между моделями, учет стоимости запусков, перекрестная проверка решений.
+- Пишу свои инструменты для работы с ИИ-агентами поверх Claude Code, Cursor CLI и Codex CLI: раздача задач между моделями, учет стоимости запусков, перекрестная проверка решений. Код: [ai-agent-orchestration](https://github.com/JellyFi1337/ai-agent-orchestration).
 
 **Проекты**
 
@@ -20,7 +20,7 @@ Full Stack AI Engineer из Москвы. Пишу на TypeScript и Python и 
 
 **Стек**
 
-TypeScript · Next.js · React · Node.js · Python · Django · PostgreSQL · C# · Docker · GitHub Actions · Playwright · Terraform
+TypeScript · Next.js · React · Node.js · Python · Django · PostgreSQL · C# · PowerShell · Docker · GitHub Actions · Playwright · Terraform
 
 **Связь**
 
